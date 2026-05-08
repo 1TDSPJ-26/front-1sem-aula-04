@@ -23,7 +23,7 @@
 }
 
 .cabecalho__a {
-   display: inline-block;
+display: inline-block;
     /* O segredo para os 3 monitores: largura fluida com limites */
     width: clamp(12rem, 8vw, 18rem); 
     padding: 0.5rem;
